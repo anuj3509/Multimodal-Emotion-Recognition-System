@@ -1,4 +1,4 @@
-# Transformer-Based Multimodal Emotion Recognition
+# Transformer Based Multimodal Emotion Recognition
 
 ## Overview
 This project focuses on recognizing human emotions by combining facial expressions and vocal intonations using transformer-based multimodal fusion techniques. Leveraging the RAVDESS dataset, the system implements three fusion mechanisms to effectively integrate audio and visual modalities, enabling robust and accurate emotion recognition.
